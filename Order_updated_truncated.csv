@@ -1,0 +1,501 @@
+Order Id,order date (DateOrders),Order Status,Order City,Order Country,Order Region,Order Zipcode,Market,Transaction Type
+1,1/31/2018 22:56,COMPLETE,Bekasi,Indonesia,Southeast Asia,,Pacific Asia,DEBIT
+2,1/13/2018 12:27,PENDING,Bikaner,India,South Asia,,Pacific Asia,TRANSFER
+3,1/13/2018 12:06,CLOSED,Bikaner,India,South Asia,,Pacific Asia,CASH
+4,1/13/2018 11:45,COMPLETE,Townsville,Australia,Oceania,,Pacific Asia,DEBIT
+5,1/13/2018 11:24,PENDING_PAYMENT,Townsville,Australia,Oceania,,Pacific Asia,PAYMENT
+6,1/13/2018 11:03,CANCELED,Toowoomba,Australia,Oceania,,Pacific Asia,TRANSFER
+7,1/13/2018 10:42,COMPLETE,Guangzhou,China,Eastern Asia,,Pacific Asia,DEBIT
+8,1/13/2018 10:21,PROCESSING,Guangzhou,China,Eastern Asia,,Pacific Asia,TRANSFER
+9,1/13/2018 10:00,CLOSED,Guangzhou,China,Eastern Asia,,Pacific Asia,CASH
+10,1/13/2018 9:39,CLOSED,Guangzhou,China,Eastern Asia,,Pacific Asia,CASH
+11,1/13/2018 9:18,SUSPECTED_FRAUD,Tokio,Japn,Eastern Asia,,Pacific Asia,TRANSFER
+12,1/13/2018 8:57,PENDING,Manado,Indonesia,Southeast Asia,,Pacific Asia,TRANSFER
+13,1/13/2018 8:36,PENDING,Manado,Indonesia,Southeast Asia,,Pacific Asia,TRANSFER
+14,1/13/2018 8:15,COMPLETE,Sangli,India,South Asia,,Pacific Asia,DEBIT
+15,1/13/2018 7:54,PROCESSING,Sangli,India,South Asia,,Pacific Asia,TRANSFER
+16,1/13/2018 7:33,COMPLETE,Sangli,India,South Asia,,Pacific Asia,DEBIT
+17,1/13/2018 7:12,PENDING_PAYMENT,Sel,Corea del Sur,Eastern Asia,,Pacific Asia,PAYMENT
+18,1/13/2018 6:51,CLOSED,Jabalpur,India,South Asia,,Pacific Asia,CASH
+19,1/13/2018 6:30,COMPLETE,Jabalpur,India,South Asia,,Pacific Asia,DEBIT
+20,1/13/2018 6:09,PENDING_PAYMENT,Jabalpur,India,South Asia,,Pacific Asia,PAYMENT
+21,1/13/2018 5:48,PROCESSING,Jabalpur,India,South Asia,,Pacific Asia,TRANSFER
+22,1/13/2018 5:27,PENDING,Jabalpur,India,South Asia,,Pacific Asia,TRANSFER
+23,1/13/2018 5:06,PENDING,Geelong,Australia,Oceania,,Pacific Asia,TRANSFER
+24,1/13/2018 4:45,CANCELED,Geelong,Australia,Oceania,,Pacific Asia,TRANSFER
+25,1/13/2018 4:24,SUSPECTED_FRAUD,Brisbane,Australia,Oceania,,Pacific Asia,TRANSFER
+26,1/13/2018 4:03,COMPLETE,Mandurah,Australia,Oceania,,Pacific Asia,DEBIT
+27,1/13/2018 3:42,PENDING,Mandurah,Australia,Oceania,,Pacific Asia,TRANSFER
+28,1/13/2018 3:21,PENDING_PAYMENT,Guilin,China,Eastern Asia,,Pacific Asia,PAYMENT
+29,1/13/2018 3:00,COMPLETE,Guilin,China,Eastern Asia,,Pacific Asia,DEBIT
+30,1/13/2018 2:39,PROCESSING,Guilin,China,Eastern Asia,,Pacific Asia,TRANSFER
+31,1/13/2018 2:18,ON_HOLD,Guilin,China,Eastern Asia,,Pacific Asia,DEBIT
+32,1/13/2018 1:57,COMPLETE,Delhi,India,South Asia,,Pacific Asia,DEBIT
+33,1/13/2018 1:36,PENDING_PAYMENT,Delhi,India,South Asia,,Pacific Asia,PAYMENT
+34,1/13/2018 1:15,COMPLETE,Suzhou,China,Eastern Asia,,Pacific Asia,DEBIT
+35,1/13/2018 0:54,PENDING_PAYMENT,Suzhou,China,Eastern Asia,,Pacific Asia,PAYMENT
+36,1/13/2018 0:33,PENDING_PAYMENT,Singapur,Singapur,Southeast Asia,,Pacific Asia,PAYMENT
+37,1/13/2018 0:12,CLOSED,Hubli,India,South Asia,,Pacific Asia,CASH
+38,01-12-2018 23:51,COMPLETE,Wollongong,Australia,Oceania,,Pacific Asia,DEBIT
+39,01-12-2018 23:30,COMPLETE,Wollongong,Australia,Oceania,,Pacific Asia,DEBIT
+40,01-12-2018 23:09,CANCELED,Wollongong,Australia,Oceania,,Pacific Asia,TRANSFER
+41,01-12-2018 22:48,PENDING_PAYMENT,Singapur,Singapur,Southeast Asia,,Pacific Asia,PAYMENT
+42,01-12-2018 22:27,COMPLETE,Singapur,Singapur,Southeast Asia,,Pacific Asia,DEBIT
+43,01-12-2018 22:05,CLOSED,Medan,Indonesia,Southeast Asia,,Pacific Asia,CASH
+44,01-12-2018 21:44,PENDING_PAYMENT,Medan,Indonesia,Southeast Asia,,Pacific Asia,PAYMENT
+45,01-12-2018 21:23,COMPLETE,Canberra,Australia,Oceania,,Pacific Asia,DEBIT
+46,01-12-2018 21:02,PENDING,Bangalore,India,South Asia,,Pacific Asia,TRANSFER
+47,01-12-2018 20:41,PENDING,Bangalore,India,South Asia,,Pacific Asia,TRANSFER
+48,01-12-2018 20:20,PROCESSING,Yiwu,China,Eastern Asia,,Pacific Asia,TRANSFER
+49,2/24/2016 13:57,PENDING_PAYMENT,Mirzapur,India,South Asia,,Pacific Asia,PAYMENT
+50,10/25/2016 14:39,PENDING_PAYMENT,Bursa,Turqua,West Asia,,Pacific Asia,PAYMENT
+51,3/30/2016 4:37,PENDING_PAYMENT,Murray Bridge,Australia,Oceania,,Pacific Asia,PAYMENT
+52,10/30/2016 1:31,PENDING_PAYMENT,Kartal,Turqua,West Asia,,Pacific Asia,PAYMENT
+53,11/28/2016 1:18,PENDING_PAYMENT,Ulan Bator,Mongolia,Eastern Asia,,Pacific Asia,PAYMENT
+54,12/31/2016 15:47,PENDING_PAYMENT,Estambul,Turqua,West Asia,,Pacific Asia,PAYMENT
+55,10/25/2015 6:24,PENDING_PAYMENT,Raipur,India,South Asia,,Pacific Asia,PAYMENT
+56,06-11-2016 15:12,PENDING_PAYMENT,Pasco,Estados Unidos,West of USA ,99301.0,USCA,PAYMENT
+57,8/24/2016 21:45,PENDING_PAYMENT,Los Angeles,Estados Unidos,West of USA ,90049.0,USCA,PAYMENT
+58,4/13/2016 10:12,PENDING_PAYMENT,San Francisco,Estados Unidos,West of USA ,94110.0,USCA,PAYMENT
+59,5/22/2016 14:10,PENDING_PAYMENT,Overland Park,Estados Unidos,US Center ,66212.0,USCA,PAYMENT
+60,10-04-2016 22:55,PENDING_PAYMENT,Ugep,Nigeria,West Africa,,Africa,PAYMENT
+61,11-08-2016 12:32,PENDING_PAYMENT,Kinshasa,Repblica Democrtica del Congo,Central Africa,,Africa,PAYMENT
+62,11-11-2016 05:21,PENDING_PAYMENT,Dakar,Senegal,West Africa,,Africa,PAYMENT
+63,12-08-2016 00:14,PENDING_PAYMENT,Casablanca,Marruecos,North Africa,,Africa,PAYMENT
+64,07-07-2015 05:31,PENDING_PAYMENT,Dortmund,Alemania,Western Europe,,Europe,PAYMENT
+65,7/22/2017 7:16,PENDING_PAYMENT,Drancy,Francia,Western Europe,,Europe,PAYMENT
+66,08-07-2017 06:33,PENDING_PAYMENT,Nantes,Francia,Western Europe,,Europe,PAYMENT
+67,9/22/2015 7:41,PENDING_PAYMENT,Groningen,Pases Bajos,Western Europe,,Europe,PAYMENT
+68,07-02-2017 09:03,PENDING_PAYMENT,Gateshead,Reino Unido,Northern Europe,,Europe,PAYMENT
+69,09-08-2015 12:15,PENDING_PAYMENT,Eastbourne,Reino Unido,Northern Europe,,Europe,PAYMENT
+70,8/20/2017 7:03,PENDING_PAYMENT,Hayange,Francia,Western Europe,,Europe,PAYMENT
+71,7/22/2017 7:16,PENDING_PAYMENT,Drancy,Francia,Western Europe,,Europe,PAYMENT
+72,08-04-2017 02:31,PENDING_PAYMENT,Portsmouth,Reino Unido,Northern Europe,,Europe,PAYMENT
+73,9/18/2017 1:14,PENDING_PAYMENT,Gelsenkirchen,Alemania,Western Europe,,Europe,PAYMENT
+74,07-02-2015 19:42,PENDING_PAYMENT,Nice,Francia,Western Europe,,Europe,PAYMENT
+75,3/28/2015 0:55,PENDING_PAYMENT,Petapa,Guatemala,Central America,,LATAM,PAYMENT
+76,04-02-2017 16:43,PENDING_PAYMENT,Mejicanos,El Salvador,Central America,,LATAM,PAYMENT
+77,05-05-2017 14:23,PENDING_PAYMENT,David,Panam,Central America,,LATAM,PAYMENT
+78,4/25/2015 4:44,PENDING_PAYMENT,Santo Domingo,Repblica Dominicana,Caribbean,,LATAM,PAYMENT
+79,4/25/2015 1:14,PENDING_PAYMENT,Cabimas,Venezuela,South America,,LATAM,PAYMENT
+80,4/25/2015 1:14,PENDING_PAYMENT,Cabimas,Venezuela,South America,,LATAM,PAYMENT
+81,06-06-2017 15:03,PENDING_PAYMENT,Santo Domingo,Repblica Dominicana,Caribbean,,LATAM,PAYMENT
+82,2/18/2017 16:36,PENDING_PAYMENT,Dos Quebradas,Colombia,South America,,LATAM,PAYMENT
+83,4/26/2015 3:10,PENDING_PAYMENT,Ilopango,El Salvador,Central America,,LATAM,PAYMENT
+84,04-10-2015 00:02,PENDING_PAYMENT,Tegucigalpa,Honduras,Central America,,LATAM,PAYMENT
+85,04-11-2017 15:49,PENDING_PAYMENT,Juazeiro,Brasil,South America,,LATAM,PAYMENT
+86,4/25/2015 4:44,PENDING_PAYMENT,Santo Domingo,Repblica Dominicana,Caribbean,,LATAM,PAYMENT
+87,3/16/2017 2:54,PENDING_PAYMENT,Mexico City,Mxico,Central America,,LATAM,PAYMENT
+88,3/29/2015 10:33,PENDING_PAYMENT,Tlaquepaque,Mxico,Central America,,LATAM,PAYMENT
+89,02-03-2015 00:28,PENDING_PAYMENT,Puebla,Mxico,Central America,,LATAM,PAYMENT
+90,02-03-2015 00:28,PENDING_PAYMENT,Puebla,Mxico,Central America,,LATAM,PAYMENT
+91,2/18/2017 13:05,PENDING_PAYMENT,Mexico City,Mxico,Central America,,LATAM,PAYMENT
+92,1/18/2017 19:37,PENDING_PAYMENT,So Paulo,Brasil,South America,,LATAM,PAYMENT
+93,3/13/2015 18:59,PENDING,Montevideo,Uruguay,South America,,LATAM,TRANSFER
+94,02-07-2017 09:47,PENDING,Buenos Aires,Argentina,South America,,LATAM,TRANSFER
+95,04-03-2015 19:08,PENDING,So Paulo,Brasil,South America,,LATAM,TRANSFER
+96,4/13/2017 14:25,PENDING,Barueri,Brasil,South America,,LATAM,TRANSFER
+97,04-02-2015 03:33,PENDING,Arapongas,Brasil,South America,,LATAM,TRANSFER
+98,1/31/2017 11:43,PENDING,Camagey,Cuba,Caribbean,,LATAM,TRANSFER
+99,3/30/2017 23:12,PENDING,Las Tunas,Cuba,Caribbean,,LATAM,TRANSFER
+100,3/25/2017 23:02,PENDING,Santo Domingo,Repblica Dominicana,Caribbean,,LATAM,TRANSFER
+101,02-05-2017 01:01,PENDING,Tepic,Mxico,Central America,,LATAM,TRANSFER
+102,4/15/2017 14:04,PENDING,San Miguelito,Panam,Central America,,LATAM,TRANSFER
+103,2/15/2015 18:40,PENDING,Ixtapaluca,Mxico,Central America,,LATAM,TRANSFER
+104,5/27/2017 16:48,PENDING,Macei,Brasil,South America,,LATAM,TRANSFER
+105,2/25/2015 20:46,PENDING,David,Panam,Central America,,LATAM,TRANSFER
+106,5/31/2017 11:33,PENDING,Belo Horizonte,Brasil,South America,,LATAM,TRANSFER
+107,1/15/2015 4:32,PENDING,Santiago de Cuba,Cuba,Caribbean,,LATAM,TRANSFER
+108,4/26/2017 15:16,PENDING,San Pedro Sula,Honduras,Central America,,LATAM,TRANSFER
+109,03-07-2017 19:12,PENDING,Lima,Per,South America,,LATAM,TRANSFER
+110,4/20/2017 18:47,PENDING,Holgun,Cuba,Caribbean,,LATAM,TRANSFER
+111,03-03-2017 06:14,PENDING,Orizaba,Mxico,Central America,,LATAM,TRANSFER
+112,06-04-2017 16:06,PENDING,Managua,Nicaragua,Central America,,LATAM,TRANSFER
+113,5/16/2017 21:33,PENDING,Villahermosa,Mxico,Central America,,LATAM,TRANSFER
+114,02-07-2017 09:47,PENDING,Buenos Aires,Argentina,South America,,LATAM,TRANSFER
+115,5/27/2015 1:32,PENDING,Quixad,Brasil,South America,,LATAM,TRANSFER
+116,3/28/2017 5:20,PENDING,Mejicanos,El Salvador,Central America,,LATAM,TRANSFER
+117,02-05-2017 01:01,PENDING,Tepic,Mxico,Central America,,LATAM,TRANSFER
+118,05-02-2017 03:00,PENDING,Mixco,Guatemala,Central America,,LATAM,TRANSFER
+119,04-03-2017 23:53,PENDING,Nueva Gerona,Cuba,Caribbean,,LATAM,TRANSFER
+120,4/30/2015 23:49,PROCESSING,Buenos Aires,Argentina,South America,,LATAM,TRANSFER
+121,4/27/2017 3:32,PROCESSING,Chimaltenango,Guatemala,Central America,,LATAM,TRANSFER
+122,02-02-2015 03:27,PROCESSING,Villa Nueva,Guatemala,Central America,,LATAM,TRANSFER
+123,2/13/2017 16:05,PROCESSING,Quito,Ecuador,South America,,LATAM,TRANSFER
+124,5/27/2017 23:28,PROCESSING,Managua,Nicaragua,Central America,,LATAM,TRANSFER
+125,3/19/2017 19:53,PROCESSING,Valle de La Pascua,Venezuela,South America,,LATAM,TRANSFER
+126,05-07-2015 15:56,PROCESSING,San Miguelito,Panam,Central America,,LATAM,TRANSFER
+127,4/27/2015 11:23,PROCESSING,San Miguelito,Panam,Central America,,LATAM,TRANSFER
+128,4/14/2017 18:06,PROCESSING,Petapa,Guatemala,Central America,,LATAM,TRANSFER
+129,05-07-2015 01:13,PROCESSING,Cotia,Brasil,South America,,LATAM,TRANSFER
+130,06-12-2017 05:55,PROCESSING,Itapecuru Mirim,Brasil,South America,,LATAM,TRANSFER
+131,3/26/2017 15:30,PROCESSING,Len,Nicaragua,Central America,,LATAM,TRANSFER
+132,2/17/2017 11:52,PROCESSING,Tlalpan,Mxico,Central America,,LATAM,TRANSFER
+133,1/25/2017 1:13,PROCESSING,Apopa,El Salvador,Central America,,LATAM,TRANSFER
+134,02-06-2017 06:27,PROCESSING,Cipolletti,Argentina,South America,,LATAM,TRANSFER
+135,5/22/2017 6:08,PROCESSING,Mejicanos,El Salvador,Central America,,LATAM,TRANSFER
+136,2/21/2017 1:00,PROCESSING,La Ceiba,Honduras,Central America,,LATAM,TRANSFER
+137,01-06-2015 19:26,PROCESSING,Crdoba,Mxico,Central America,,LATAM,TRANSFER
+138,1/15/2017 4:44,ON_HOLD,Kuito,Angola,Central Africa,,Africa,DEBIT
+139,10/28/2016 19:23,ON_HOLD,Jartum,Sudn,North Africa,,Africa,DEBIT
+140,9/19/2016 13:39,ON_HOLD,Hargeysa,Somalia,East Africa,,Africa,DEBIT
+141,8/25/2016 22:16,ON_HOLD,Kenitra,Marruecos,North Africa,,Africa,DEBIT
+142,10/28/2016 19:23,ON_HOLD,Jartum,Sudn,North Africa,,Africa,DEBIT
+143,10-07-2016 23:26,ON_HOLD,Abidjan,Costa de Marfil,West Africa,,Africa,DEBIT
+144,11-03-2016 21:49,ON_HOLD,Abu Kabir,Egipto,North Africa,,Africa,DEBIT
+145,8/25/2016 22:16,ON_HOLD,Kenitra,Marruecos,North Africa,,Africa,DEBIT
+146,11-03-2017 13:05,COMPLETE,Perugia,Italia,Southern Europe,,Europe,DEBIT
+147,10/14/2017 11:42,COMPLETE,Nuremberg,Alemania,Western Europe,,Europe,DEBIT
+148,11-04-2017 01:21,COMPLETE,Reims,Francia,Western Europe,,Europe,DEBIT
+149,10/16/2017 1:12,COMPLETE,Halle,Alemania,Western Europe,,Europe,DEBIT
+150,11-03-2017 18:20,COMPLETE,Bremerhaven,Alemania,Western Europe,,Europe,DEBIT
+151,10/13/2017 3:08,COMPLETE,Portici,Italia,Southern Europe,,Europe,DEBIT
+152,11-02-2017 10:06,COMPLETE,Bielefeld,Alemania,Western Europe,,Europe,DEBIT
+153,10/29/2017 12:55,COMPLETE,London,Reino Unido,Northern Europe,,Europe,DEBIT
+154,10/13/2017 8:44,COMPLETE,Drancy,Francia,Western Europe,,Europe,DEBIT
+155,10-11-2017 06:17,COMPLETE,Duisburg,Alemania,Western Europe,,Europe,DEBIT
+156,10/30/2017 1:10,COMPLETE,Bradford,Reino Unido,Northern Europe,,Europe,DEBIT
+157,10/13/2017 14:41,COMPLETE,Agrigento,Italia,Southern Europe,,Europe,DEBIT
+158,11-03-2017 03:58,COMPLETE,Oldham,Reino Unido,Northern Europe,,Europe,DEBIT
+159,10-10-2017 04:21,COMPLETE,Palermo,Italia,Southern Europe,,Europe,DEBIT
+160,11-04-2017 05:12,COMPLETE,Madrid,Espaa,Southern Europe,,Europe,DEBIT
+161,10/26/2017 14:51,COMPLETE,Nancy,Francia,Western Europe,,Europe,DEBIT
+162,10/13/2017 13:59,COMPLETE,Girona,Espaa,Southern Europe,,Europe,DEBIT
+163,11-01-2017 20:05,COMPLETE,Laon,Francia,Western Europe,,Europe,DEBIT
+164,10/17/2017 11:32,COMPLETE,Hartlepool,Reino Unido,Northern Europe,,Europe,DEBIT
+165,11-01-2017 19:02,COMPLETE,Pontault-Combault,Francia,Western Europe,,Europe,DEBIT
+166,10/13/2017 12:35,COMPLETE,La Rochelle,Francia,Western Europe,,Europe,DEBIT
+167,11-01-2017 18:20,COMPLETE,Edinburgh,Reino Unido,Northern Europe,,Europe,DEBIT
+168,11-01-2017 05:44,COMPLETE,Acerra,Italia,Southern Europe,,Europe,DEBIT
+169,11-02-2017 13:15,COMPLETE,Hanover,Alemania,Western Europe,,Europe,DEBIT
+170,10/13/2017 18:11,COMPLETE,Manchester,Reino Unido,Northern Europe,,Europe,DEBIT
+171,10-11-2017 22:03,COMPLETE,Messina,Italia,Southern Europe,,Europe,DEBIT
+172,11-03-2017 14:08,COMPLETE,Wilhelmshaven,Alemania,Western Europe,,Europe,DEBIT
+173,10/26/2017 18:21,COMPLETE,Letchworth,Reino Unido,Northern Europe,,Europe,DEBIT
+174,10-11-2017 02:26,COMPLETE,Kilwinning,Reino Unido,Northern Europe,,Europe,DEBIT
+175,10-02-2017 11:01,COMPLETE,Villeneuve-le-Roi,Francia,Western Europe,,Europe,DEBIT
+176,09-08-2017 03:42,COMPLETE,Barakaldo,Espaa,Southern Europe,,Europe,DEBIT
+177,9/17/2015 23:17,COMPLETE,Estocolmo,Suecia,Northern Europe,,Europe,DEBIT
+178,10-02-2015 07:40,COMPLETE,Aylesbury,Reino Unido,Northern Europe,,Europe,DEBIT
+179,08-08-2017 10:13,COMPLETE,Langenhagen,Alemania,Western Europe,,Europe,DEBIT
+180,8/17/2015 18:35,COMPLETE,Birmingham,Reino Unido,Northern Europe,,Europe,DEBIT
+181,9/23/2015 9:57,COMPLETE,Amsterdam,Pases Bajos,Western Europe,,Europe,DEBIT
+182,10/23/2015 8:31,COMPLETE,Viena,Austria,Western Europe,,Europe,DEBIT
+183,07-11-2015 18:49,COMPLETE,Viena,Austria,Western Europe,,Europe,DEBIT
+184,05-08-2016 17:42,SUSPECTED_FRAUD,Houston,Estados Unidos,US Center ,77041.0,USCA,TRANSFER
+185,04-02-2016 19:51,SUSPECTED_FRAUD,Gilbert,Estados Unidos,West of USA ,85234.0,USCA,TRANSFER
+186,8/14/2016 2:51,SUSPECTED_FRAUD,San Jose,Estados Unidos,West of USA ,95123.0,USCA,TRANSFER
+187,04-02-2016 19:51,SUSPECTED_FRAUD,Gilbert,Estados Unidos,West of USA ,85234.0,USCA,TRANSFER
+188,5/18/2016 16:38,SUSPECTED_FRAUD,Fresno,Estados Unidos,West of USA ,93727.0,USCA,TRANSFER
+189,05-05-2016 13:40,SUSPECTED_FRAUD,Peoria,Estados Unidos,West of USA ,85345.0,USCA,TRANSFER
+190,4/21/2016 2:50,SUSPECTED_FRAUD,Cincinnati,Estados Unidos,East of USA,45231.0,USCA,TRANSFER
+191,07-01-2016 08:10,SUSPECTED_FRAUD,Columbus,Estados Unidos,US Center ,47201.0,USCA,TRANSFER
+192,4/21/2016 2:50,SUSPECTED_FRAUD,Cincinnati,Estados Unidos,East of USA,45231.0,USCA,TRANSFER
+193,12/17/2016 8:48,SUSPECTED_FRAUD,Ottawa,Canada,Canada,,USCA,TRANSFER
+194,05-08-2016 17:42,SUSPECTED_FRAUD,Houston,Estados Unidos,US Center ,77041.0,USCA,TRANSFER
+195,12/17/2016 8:48,SUSPECTED_FRAUD,Ottawa,Canada,Canada,,USCA,TRANSFER
+196,8/30/2016 14:02,SUSPECTED_FRAUD,Kitchener,Canada,Canada,,USCA,TRANSFER
+197,7/27/2016 6:01,SUSPECTED_FRAUD,Philadelphia,Estados Unidos,East of USA,19134.0,USCA,TRANSFER
+198,7/17/2016 10:14,SUSPECTED_FRAUD,Des Plaines,Estados Unidos,US Center ,60016.0,USCA,TRANSFER
+199,07-06-2016 10:26,SUSPECTED_FRAUD,Elmhurst,Estados Unidos,US Center ,60126.0,USCA,TRANSFER
+200,09-09-2016 22:05,CANCELED,Antananarivo,Madagascar,East Africa,,Africa,TRANSFER
+201,8/26/2016 12:38,CANCELED,Algiers,Argelia,North Africa,,Africa,TRANSFER
+202,1/16/2017 22:04,CANCELED,Monrovia,Liberia,West Africa,,Africa,TRANSFER
+203,1/16/2017 22:04,CANCELED,Monrovia,Liberia,West Africa,,Africa,TRANSFER
+204,9/28/2016 10:19,CANCELED,Jartum,Sudn,North Africa,,Africa,TRANSFER
+205,09-03-2016 15:26,CANCELED,Gagnoa,Costa de Marfil,West Africa,,Africa,TRANSFER
+206,9/16/2016 1:13,PENDING,Livingstone,Zambia,East Africa,,Africa,TRANSFER
+207,10/20/2016 3:59,PENDING,Fes,Marruecos,North Africa,,Africa,TRANSFER
+208,01-07-2017 00:11,PENDING,Cairo,Egipto,North Africa,,Africa,TRANSFER
+209,10-10-2016 06:06,PENDING,Dakar,Senegal,West Africa,,Africa,TRANSFER
+210,09-06-2016 13:30,PENDING,Hurghada,Egipto,North Africa,,Africa,TRANSFER
+211,01-06-2017 01:25,PENDING,Kenitra,Marruecos,North Africa,,Africa,TRANSFER
+212,12/28/2016 7:33,PENDING,Abidjan,Costa de Marfil,West Africa,,Africa,TRANSFER
+213,8/25/2016 18:46,PENDING,Hurghada,Egipto,North Africa,,Africa,TRANSFER
+214,09-05-2016 10:10,PENDING,Niamey,Nger,West Africa,,Africa,TRANSFER
+215,11/28/2016 9:00,PENDING,Sale,Marruecos,North Africa,,Africa,TRANSFER
+216,09-02-2016 13:30,PENDING,Pretoria,SudAfrica,Southern Africa,,Africa,TRANSFER
+217,11/19/2016 21:27,PENDING,Marrakech,Marruecos,North Africa,,Africa,TRANSFER
+218,9/14/2016 5:26,PENDING,Bur Sudan,Sudn,North Africa,,Africa,TRANSFER
+219,11-05-2016 09:13,PENDING,Lagos,Nigeria,West Africa,,Africa,TRANSFER
+220,12-08-2016 12:08,PENDING,Lagos,Nigeria,West Africa,,Africa,TRANSFER
+221,1/14/2017 14:22,PROCESSING,Quelimane,Mozambique,East Africa,,Africa,TRANSFER
+222,11-05-2016 19:43,PROCESSING,Port Elizabeth,SudAfrica,Southern Africa,,Africa,TRANSFER
+223,9/17/2016 23:07,PROCESSING,Shinyanga,Tanzania,East Africa,,Africa,TRANSFER
+224,11/14/2016 13:14,PROCESSING,Kismaayo,Somalia,East Africa,,Africa,TRANSFER
+225,12-11-2016 15:49,PROCESSING,Butare,Ruanda,East Africa,,Africa,TRANSFER
+226,12-11-2016 15:49,PROCESSING,Butare,Ruanda,East Africa,,Africa,TRANSFER
+227,11-08-2016 13:14,PROCESSING,Cairo,Egipto,North Africa,,Africa,TRANSFER
+228,11/22/2016 2:00,PROCESSING,Newcastle,SudAfrica,Southern Africa,,Africa,TRANSFER
+229,8/31/2016 12:06,COMPLETE,Estambul,Turqua,West Asia,,Pacific Asia,DEBIT
+230,09-03-2016 13:41,COMPLETE,Jerusaln,Israel,West Asia,,Pacific Asia,DEBIT
+231,2/16/2016 4:09,COMPLETE,Gold Coast,Australia,Oceania,,Pacific Asia,DEBIT
+232,12/31/2015 19:27,COMPLETE,Newcastle,Australia,Oceania,,Pacific Asia,DEBIT
+233,3/26/2016 8:07,COMPLETE,Porirua,Nueva Zelanda,Oceania,,Pacific Asia,DEBIT
+234,01-02-2016 00:11,COMPLETE,Mildura,Australia,Oceania,,Pacific Asia,DEBIT
+235,1/27/2018 2:38,COMPLETE,Brisbane,Australia,Oceania,,Pacific Asia,DEBIT
+236,01-03-2016 07:22,COMPLETE,Daca,Banglads,South Asia,,Pacific Asia,DEBIT
+237,2/14/2016 5:54,COMPLETE,Kanpur,India,South Asia,,Pacific Asia,DEBIT
+238,11/28/2015 1:06,COMPLETE,Bangkok,Tailandia,Southeast Asia,,Pacific Asia,DEBIT
+239,12-11-2015 15:17,COMPLETE,Bangkok,Tailandia,Southeast Asia,,Pacific Asia,DEBIT
+240,9/17/2016 4:12,COMPLETE,Bagdad,Irak,West Asia,,Pacific Asia,DEBIT
+241,09-03-2016 13:41,COMPLETE,Jerusaln,Israel,West Asia,,Pacific Asia,DEBIT
+242,12-12-2016 01:59,COMPLETE,Adana,Turqua,West Asia,,Pacific Asia,DEBIT
+243,10/28/2016 15:11,COMPLETE,Riyadh,Arabia Saud,West Asia,,Pacific Asia,DEBIT
+244,12/27/2017 20:01,COMPLETE,Shenzhen,China,Eastern Asia,,Pacific Asia,DEBIT
+245,02-12-2016 12:34,COMPLETE,Tianjin,China,Eastern Asia,,Pacific Asia,DEBIT
+246,3/15/2016 7:58,COMPLETE,Perth,Australia,Oceania,,Pacific Asia,DEBIT
+247,3/28/2016 0:25,COMPLETE,Dunedin,Nueva Zelanda,Oceania,,Pacific Asia,DEBIT
+248,3/14/2016 20:03,COMPLETE,Melbourne,Australia,Oceania,,Pacific Asia,DEBIT
+249,11/18/2015 9:53,COMPLETE,Ulhasnagar,India,South Asia,,Pacific Asia,DEBIT
+250,12/20/2015 16:29,COMPLETE,Manila,Filipinas,Southeast Asia,,Pacific Asia,DEBIT
+251,12-12-2016 01:59,COMPLETE,Adana,Turqua,West Asia,,Pacific Asia,DEBIT
+252,09-10-2016 05:47,COMPLETE,Mersin,Turqua,West Asia,,Pacific Asia,DEBIT
+253,10/28/2016 15:11,COMPLETE,Riyadh,Arabia Saud,West Asia,,Pacific Asia,DEBIT
+254,09-07-2016 01:04,COMPLETE,Temirtau,Kazajistn,Central Asia,,Pacific Asia,DEBIT
+255,11-11-2015 03:45,COMPLETE,Tengzhou,China,Eastern Asia,,Pacific Asia,DEBIT
+256,12/13/2015 22:17,COMPLETE,Nantong,China,Eastern Asia,,Pacific Asia,DEBIT
+257,01-07-2016 05:57,COMPLETE,Dalian,China,Eastern Asia,,Pacific Asia,DEBIT
+258,12/14/2017 15:39,COMPLETE,Lianyuan,China,Eastern Asia,,Pacific Asia,DEBIT
+259,3/15/2016 3:45,COMPLETE,Caloundra,Australia,Oceania,,Pacific Asia,DEBIT
+260,3/16/2016 10:14,COMPLETE,Melbourne,Australia,Oceania,,Pacific Asia,DEBIT
+261,02-06-2016 02:25,COMPLETE,Bendigo,Australia,Oceania,,Pacific Asia,DEBIT
+262,1/28/2018 15:46,COMPLETE,Adelaide,Australia,Oceania,,Pacific Asia,DEBIT
+263,12/18/2015 5:59,COMPLETE,Ajmer,India,South Asia,,Pacific Asia,DEBIT
+264,1/17/2017 12:26,COMPLETE,Kerman,Irn,South Asia,,Pacific Asia,DEBIT
+265,12/13/2017 20:44,COMPLETE,Vadodara,India,South Asia,,Pacific Asia,DEBIT
+266,12/26/2017 18:26,COMPLETE,Semarang,Indonesia,Southeast Asia,,Pacific Asia,DEBIT
+267,1/27/2016 12:14,COMPLETE,Cirebon,Indonesia,Southeast Asia,,Pacific Asia,DEBIT
+268,1/30/2018 11:54,COMPLETE,Rangn,Myanmar (Birmania),Southeast Asia,,Pacific Asia,DEBIT
+269,8/30/2016 8:47,COMPLETE,Ktahya,Turqua,West Asia,,Pacific Asia,DEBIT
+270,11/17/2016 4:59,COMPLETE,Bagdad,Irak,West Asia,,Pacific Asia,DEBIT
+271,12/29/2016 15:26,COMPLETE,Namangn,Uzbekistn,Central Asia,,Pacific Asia,DEBIT
+272,03-10-2016 04:59,COMPLETE,Xinzhou,China,Eastern Asia,,Pacific Asia,DEBIT
+273,11/24/2017 19:11,COMPLETE,Mudanjiang,China,Eastern Asia,,Pacific Asia,DEBIT
+274,12-10-2016 13:11,COMPLETE,Lokossa,Benn,West Africa,,Africa,DEBIT
+275,10/26/2016 6:25,COMPLETE,Ikot Ekpene,Nigeria,West Africa,,Africa,DEBIT
+276,10/19/2016 6:36,COMPLETE,Warri,Nigeria,West Africa,,Africa,DEBIT
+277,11-06-2016 23:24,COMPLETE,Bandundu,Repblica Democrtica del Congo,Central Africa,,Africa,DEBIT
+278,9/29/2016 16:27,COMPLETE,Lagos,Nigeria,West Africa,,Africa,DEBIT
+279,09-03-2016 12:38,COMPLETE,Foumban,Camern,Central Africa,,Africa,DEBIT
+280,11-07-2016 10:15,COMPLETE,Luanda,Angola,Central Africa,,Africa,DEBIT
+281,11-12-2016 05:10,COMPLETE,Maiduguri,Nigeria,West Africa,,Africa,DEBIT
+282,11/26/2016 12:30,COMPLETE,Nairobi,Kenia,East Africa,,Africa,DEBIT
+283,12-09-2016 22:07,COMPLETE,Kitwe,Zambia,East Africa,,Africa,DEBIT
+284,10-02-2016 15:55,COMPLETE,Lagos,Nigeria,West Africa,,Africa,DEBIT
+285,10/20/2016 21:30,COMPLETE,Nkongsamba,Camern,Central Africa,,Africa,DEBIT
+286,10-06-2016 14:51,COMPLETE,Mbuji-mayi,Repblica Democrtica del Congo,Central Africa,,Africa,DEBIT
+287,12/19/2016 9:30,COMPLETE,Lome,Togo,West Africa,,Africa,DEBIT
+288,09-02-2016 12:48,COMPLETE,Pretoria,SudAfrica,Southern Africa,,Africa,DEBIT
+289,10-11-2016 15:22,COMPLETE,Dakar,Senegal,West Africa,,Africa,DEBIT
+290,10-11-2016 12:34,COMPLETE,Mahajanga,Madagascar,East Africa,,Africa,DEBIT
+291,10/27/2016 0:59,COMPLETE,Lome,Togo,West Africa,,Africa,DEBIT
+292,10-05-2016 08:44,COMPLETE,Kano,Nigeria,West Africa,,Africa,DEBIT
+293,12/28/2016 18:46,COMPLETE,Annaba,Argelia,North Africa,,Africa,DEBIT
+294,09-01-2016 23:08,COMPLETE,Casablanca,Marruecos,North Africa,,Africa,DEBIT
+295,12-02-2016 06:54,ON_HOLD,Cotonou,Benn,West Africa,,Africa,DEBIT
+296,10-08-2016 16:15,ON_HOLD,Jartum,Sudn,North Africa,,Africa,DEBIT
+297,8/30/2016 2:49,ON_HOLD,Dar es Salaam,Tanzania,East Africa,,Africa,DEBIT
+298,10/18/2016 14:29,ON_HOLD,Cairo,Egipto,North Africa,,Africa,DEBIT
+299,8/29/2016 10:42,ON_HOLD,Cape Town,SudAfrica,Southern Africa,,Africa,DEBIT
+300,12/29/2016 13:20,ON_HOLD,Cape Town,SudAfrica,Southern Africa,,Africa,DEBIT
+301,10/13/2015 22:53,COMPLETE,Montpellier,Francia,Western Europe,,Europe,DEBIT
+302,9/29/2016 4:11,COMPLETE,Khmelnytskyi,Ucrania,Eastern Europe,,Europe,DEBIT
+303,08-10-2015 21:35,COMPLETE,Vannes,Francia,Western Europe,,Europe,DEBIT
+304,8/14/2015 16:40,COMPLETE,Fuenlabrada,Espaa,Southern Europe,,Europe,DEBIT
+305,08-10-2015 05:07,COMPLETE,Villemomble,Francia,Western Europe,,Europe,DEBIT
+306,7/29/2017 19:42,COMPLETE,Montpellier,Francia,Western Europe,,Europe,DEBIT
+307,09-05-2017 10:32,COMPLETE,Gien,Francia,Western Europe,,Europe,DEBIT
+308,6/28/2017 22:43,COMPLETE,Neuilly-sur-Seine,Francia,Western Europe,,Europe,DEBIT
+309,6/15/2015 10:27,COMPLETE,Viersen,Alemania,Western Europe,,Europe,DEBIT
+310,07-06-2017 23:03,COMPLETE,Verona,Italia,Southern Europe,,Europe,DEBIT
+311,09-05-2017 00:02,COMPLETE,Fano,Italia,Southern Europe,,Europe,DEBIT
+312,11/17/2016 2:32,COMPLETE,Gdynia,Polonia,Eastern Europe,,Europe,DEBIT
+313,7/15/2017 3:15,COMPLETE,Talavera de la Reina,Espaa,Southern Europe,,Europe,DEBIT
+314,9/13/2017 7:01,COMPLETE,Montreuil,Francia,Western Europe,,Europe,DEBIT
+315,10-03-2015 15:33,COMPLETE,Marseille,Francia,Western Europe,,Europe,DEBIT
+316,10-03-2015 01:53,COMPLETE,Lisbon,Portugal,Southern Europe,,Europe,DEBIT
+317,09-02-2017 21:35,COMPLETE,Wolverhampton,Reino Unido,Northern Europe,,Europe,DEBIT
+318,11/16/2016 10:04,COMPLETE,Satu Mare,Rumania,Eastern Europe,,Europe,DEBIT
+319,3/13/2017 21:18,PROCESSING,Guadalajara,Mxico,Central America,,LATAM,TRANSFER
+320,06-01-2017 08:13,PROCESSING,Ccuta,Colombia,South America,,LATAM,TRANSFER
+321,2/21/2017 5:12,PROCESSING,Zacatecas,Mxico,Central America,,LATAM,TRANSFER
+322,04-06-2017 11:27,PROCESSING,Chihuahua,Mxico,Central America,,LATAM,TRANSFER
+323,1/27/2017 2:16,PROCESSING,Braslia,Brasil,South America,,LATAM,TRANSFER
+324,02-12-2015 20:36,PROCESSING,Santarm,Brasil,South America,,LATAM,TRANSFER
+325,03-05-2017 18:30,PROCESSING,Joinville,Brasil,South America,,LATAM,TRANSFER
+326,05-05-2017 17:53,PROCESSING,Monterrey,Mxico,Central America,,LATAM,TRANSFER
+327,4/19/2015 4:03,PROCESSING,Pitalito,Colombia,South America,,LATAM,TRANSFER
+328,3/20/2015 1:17,PROCESSING,Puebla,Mxico,Central America,,LATAM,TRANSFER
+329,5/22/2017 1:56,PROCESSING,Santo Domingo,Repblica Dominicana,Caribbean,,LATAM,TRANSFER
+330,5/18/2017 12:26,PROCESSING,Quertaro,Mxico,Central America,,LATAM,TRANSFER
+331,2/20/2015 11:29,PROCESSING,Chaguanas,Trinidad y Tobago,Caribbean,,LATAM,TRANSFER
+332,05-04-2015 15:04,PROCESSING,Chimaltenango,Guatemala,Central America,,LATAM,TRANSFER
+333,2/19/2017 7:19,PROCESSING,Belo Horizonte,Brasil,South America,,LATAM,TRANSFER
+334,1/30/2015 9:14,PROCESSING,Tlaquepaque,Mxico,Central America,,LATAM,TRANSFER
+335,3/26/2017 23:33,PROCESSING,San Miguelito,Panam,Central America,,LATAM,TRANSFER
+336,02-06-2017 13:27,PROCESSING,Hermosillo,Mxico,Central America,,LATAM,TRANSFER
+337,3/31/2017 16:43,PROCESSING,Coacalco,Mxico,Central America,,LATAM,TRANSFER
+338,4/24/2017 3:43,PROCESSING,Balnerio Cambori,Brasil,South America,,LATAM,TRANSFER
+339,3/31/2017 14:58,PROCESSING,Tegucigalpa,Honduras,Central America,,LATAM,TRANSFER
+340,3/28/2015 0:13,PROCESSING,Petapa,Guatemala,Central America,,LATAM,TRANSFER
+341,3/22/2015 16:21,PROCESSING,La Ceiba,Honduras,Central America,,LATAM,TRANSFER
+342,01-06-2015 08:13,PROCESSING,Maturn,Venezuela,South America,,LATAM,TRANSFER
+343,02-03-2017 05:14,PROCESSING,Parintins,Brasil,South America,,LATAM,TRANSFER
+344,1/27/2015 0:39,PROCESSING,So Paulo,Brasil,South America,,LATAM,TRANSFER
+345,5/30/2017 11:22,PROCESSING,Santiago de Cuba,Cuba,Caribbean,,LATAM,TRANSFER
+346,04-09-2015 21:35,PROCESSING,Puebla,Mxico,Central America,,LATAM,TRANSFER
+347,03-07-2015 11:38,PROCESSING,Mixco,Guatemala,Central America,,LATAM,TRANSFER
+348,5/22/2015 7:20,PROCESSING,Huehuetenango,Guatemala,Central America,,LATAM,TRANSFER
+349,06-07-2017 12:25,PROCESSING,Chinautla,Guatemala,Central America,,LATAM,TRANSFER
+350,2/16/2017 0:50,PROCESSING,Apopa,El Salvador,Central America,,LATAM,TRANSFER
+351,02-06-2017 20:07,PROCESSING,Sorocaba,Brasil,South America,,LATAM,TRANSFER
+352,03-10-2015 00:15,PROCESSING,San Justo,Argentina,South America,,LATAM,TRANSFER
+353,2/21/2015 15:31,PROCESSING,Colombo,Brasil,South America,,LATAM,TRANSFER
+354,2/16/2017 0:50,PROCESSING,Apopa,El Salvador,Central America,,LATAM,TRANSFER
+355,03-06-2017 09:13,PROCESSING,Itu,Brasil,South America,,LATAM,TRANSFER
+356,04-09-2015 21:35,PROCESSING,Puebla,Mxico,Central America,,LATAM,TRANSFER
+357,02-06-2017 01:54,PROCESSING,Cuernavaca,Mxico,Central America,,LATAM,TRANSFER
+358,5/31/2017 2:47,PROCESSING,Villa Nueva,Guatemala,Central America,,LATAM,TRANSFER
+359,05-04-2015 15:04,PROCESSING,Chimaltenango,Guatemala,Central America,,LATAM,TRANSFER
+360,3/25/2015 8:49,PROCESSING,guas Lindas de Gois,Brasil,South America,,LATAM,TRANSFER
+361,5/16/2015 21:00,PROCESSING,Vespasiano,Brasil,South America,,LATAM,TRANSFER
+362,4/29/2015 3:41,PROCESSING,Bogot,Colombia,South America,,LATAM,TRANSFER
+363,01-12-2018 19:59,PROCESSING,Bhilai,India,South Asia,,Pacific Asia,TRANSFER
+364,01-12-2018 19:38,COMPLETE,Qingdao,China,Eastern Asia,,Pacific Asia,DEBIT
+365,01-12-2018 19:17,COMPLETE,Qingdao,China,Eastern Asia,,Pacific Asia,DEBIT
+366,01-12-2018 18:56,COMPLETE,Herat,Afganistn,South Asia,,Pacific Asia,DEBIT
+367,01-12-2018 18:35,PENDING_PAYMENT,Herat,Afganistn,South Asia,,Pacific Asia,PAYMENT
+368,01-12-2018 18:14,COMPLETE,Herat,Afganistn,South Asia,,Pacific Asia,DEBIT
+369,01-12-2018 17:53,CANCELED,Sydney,Australia,Oceania,,Pacific Asia,TRANSFER
+370,01-12-2018 17:32,PENDING_PAYMENT,Bandung,Indonesia,Southeast Asia,,Pacific Asia,PAYMENT
+371,01-12-2018 17:11,PENDING,Newcastle,Australia,Oceania,,Pacific Asia,TRANSFER
+372,01-12-2018 16:50,COMPLETE,Tongchuan,China,Eastern Asia,,Pacific Asia,DEBIT
+373,01-12-2018 16:29,PENDING,Tongchuan,China,Eastern Asia,,Pacific Asia,TRANSFER
+374,01-12-2018 16:08,COMPLETE,Tongchuan,China,Eastern Asia,,Pacific Asia,DEBIT
+375,01-12-2018 15:47,COMPLETE,Tongchuan,China,Eastern Asia,,Pacific Asia,DEBIT
+376,01-12-2018 15:26,PROCESSING,Ujjain,India,South Asia,,Pacific Asia,TRANSFER
+377,01-12-2018 15:05,COMPLETE,Ujjain,India,South Asia,,Pacific Asia,DEBIT
+378,01-12-2018 14:44,PROCESSING,Balikpapan,Indonesia,Southeast Asia,,Pacific Asia,TRANSFER
+379,01-12-2018 14:23,PENDING,Balikpapan,Indonesia,Southeast Asia,,Pacific Asia,TRANSFER
+380,01-12-2018 14:02,PENDING_PAYMENT,Balikpapan,Indonesia,Southeast Asia,,Pacific Asia,PAYMENT
+381,01-12-2018 13:41,PENDING_PAYMENT,Balikpapan,Indonesia,Southeast Asia,,Pacific Asia,PAYMENT
+382,01-12-2018 13:20,PROCESSING,Pune,India,South Asia,,Pacific Asia,TRANSFER
+383,01-12-2018 12:59,PENDING,Pune,India,South Asia,,Pacific Asia,TRANSFER
+384,01-12-2018 12:38,COMPLETE,Pune,India,South Asia,,Pacific Asia,DEBIT
+385,01-12-2018 12:17,COMPLETE,Pune,India,South Asia,,Pacific Asia,DEBIT
+386,01-12-2018 11:56,COMPLETE,Pune,India,South Asia,,Pacific Asia,DEBIT
+387,01-12-2018 11:35,PROCESSING,Weifang,China,Eastern Asia,,Pacific Asia,TRANSFER
+388,01-12-2018 11:14,PENDING,Yogyakarta,Indonesia,Southeast Asia,,Pacific Asia,TRANSFER
+389,01-12-2018 10:53,PENDING_PAYMENT,Yogyakarta,Indonesia,Southeast Asia,,Pacific Asia,PAYMENT
+390,01-12-2018 10:32,CLOSED,Toowoomba,Australia,Oceania,,Pacific Asia,CASH
+391,01-12-2018 10:11,PENDING,Toowoomba,Australia,Oceania,,Pacific Asia,TRANSFER
+392,01-12-2018 09:50,PENDING_PAYMENT,Toowoomba,Australia,Oceania,,Pacific Asia,PAYMENT
+393,01-12-2018 09:29,PENDING,Rockhampton,Australia,Oceania,,Pacific Asia,TRANSFER
+394,01-12-2018 09:08,COMPLETE,Rockhampton,Australia,Oceania,,Pacific Asia,DEBIT
+395,01-12-2018 08:47,COMPLETE,Rockhampton,Australia,Oceania,,Pacific Asia,DEBIT
+396,01-12-2018 08:26,SUSPECTED_FRAUD,Siping,China,Eastern Asia,,Pacific Asia,TRANSFER
+397,01-12-2018 08:05,COMPLETE,Perth,Australia,Oceania,,Pacific Asia,DEBIT
+398,01-12-2018 07:44,COMPLETE,Perth,Australia,Oceania,,Pacific Asia,DEBIT
+399,01-12-2018 07:23,ON_HOLD,Shanghi,China,Eastern Asia,,Pacific Asia,DEBIT
+400,01-12-2018 07:02,PENDING_PAYMENT,Depok,Indonesia,Southeast Asia,,Pacific Asia,PAYMENT
+401,01-12-2018 06:41,COMPLETE,Depok,Indonesia,Southeast Asia,,Pacific Asia,DEBIT
+402,01-12-2018 06:20,PENDING_PAYMENT,Kawasaki,Japn,Eastern Asia,,Pacific Asia,PAYMENT
+403,01-12-2018 05:59,COMPLETE,Lahore,Pakistn,South Asia,,Pacific Asia,DEBIT
+404,01-12-2018 05:38,PENDING,Shanghi,China,Eastern Asia,,Pacific Asia,TRANSFER
+405,01-12-2018 05:16,COMPLETE,Bangalore,India,South Asia,,Pacific Asia,DEBIT
+406,01-12-2018 04:55,PENDING_PAYMENT,Bangalore,India,South Asia,,Pacific Asia,PAYMENT
+407,01-12-2018 04:34,PENDING_PAYMENT,Bangalore,India,South Asia,,Pacific Asia,PAYMENT
+408,01-12-2018 04:13,SUSPECTED_FRAUD,Bangalore,India,South Asia,,Pacific Asia,TRANSFER
+409,01-12-2018 03:52,PROCESSING,Bangalore,India,South Asia,,Pacific Asia,TRANSFER
+410,01-12-2018 03:31,PENDING_PAYMENT,Malang,Indonesia,Southeast Asia,,Pacific Asia,PAYMENT
+411,01-12-2018 03:10,PENDING,Ho Chi Minh City,Vietnam,Southeast Asia,,Pacific Asia,TRANSFER
+412,01-12-2018 02:49,PENDING_PAYMENT,Ho Chi Minh City,Vietnam,Southeast Asia,,Pacific Asia,PAYMENT
+413,01-12-2018 02:28,PROCESSING,Ho Chi Minh City,Vietnam,Southeast Asia,,Pacific Asia,TRANSFER
+414,01-12-2018 02:07,COMPLETE,Ho Chi Minh City,Vietnam,Southeast Asia,,Pacific Asia,DEBIT
+415,01-12-2018 01:46,CLOSED,Shenyang,China,Eastern Asia,,Pacific Asia,CASH
+416,01-12-2018 01:25,PROCESSING,Shenyang,China,Eastern Asia,,Pacific Asia,TRANSFER
+417,01-12-2018 01:04,PENDING_PAYMENT,Daegu,Corea del Sur,Eastern Asia,,Pacific Asia,PAYMENT
+418,01-12-2018 00:43,CLOSED,Manila,Filipinas,Southeast Asia,,Pacific Asia,CASH
+419,01-12-2018 00:22,CLOSED,Manila,Filipinas,Southeast Asia,,Pacific Asia,CASH
+420,01-12-2018 00:01,COMPLETE,Rajkot,India,South Asia,,Pacific Asia,DEBIT
+421,01-11-2018 23:40,PENDING_PAYMENT,Rajkot,India,South Asia,,Pacific Asia,PAYMENT
+422,01-11-2018 23:19,COMPLETE,Rajkot,India,South Asia,,Pacific Asia,DEBIT
+423,01-11-2018 22:58,CLOSED,Rajkot,India,South Asia,,Pacific Asia,CASH
+424,01-11-2018 22:37,PENDING_PAYMENT,Gorakhpur,India,South Asia,,Pacific Asia,PAYMENT
+425,01-11-2018 22:16,PENDING_PAYMENT,Surabaya,Indonesia,Southeast Asia,,Pacific Asia,PAYMENT
+426,01-11-2018 21:55,PENDING_PAYMENT,Surabaya,Indonesia,Southeast Asia,,Pacific Asia,PAYMENT
+427,01-11-2018 21:34,ON_HOLD,Surabaya,Indonesia,Southeast Asia,,Pacific Asia,DEBIT
+428,01-11-2018 21:13,COMPLETE,Brisbane,Australia,Oceania,,Pacific Asia,DEBIT
+429,01-11-2018 20:52,CLOSED,Bangkok,Tailandia,Southeast Asia,,Pacific Asia,CASH
+430,01-11-2018 20:31,COMPLETE,Bangkok,Tailandia,Southeast Asia,,Pacific Asia,DEBIT
+431,01-11-2018 20:10,CLOSED,Daca,Banglads,South Asia,,Pacific Asia,CASH
+432,01-11-2018 19:49,PENDING,Daca,Banglads,South Asia,,Pacific Asia,TRANSFER
+433,01-11-2018 19:28,COMPLETE,Nagpur,India,South Asia,,Pacific Asia,DEBIT
+434,01-11-2018 19:07,COMPLETE,Nagpur,India,South Asia,,Pacific Asia,DEBIT
+435,01-11-2018 18:46,COMPLETE,Bangkok,Tailandia,Southeast Asia,,Pacific Asia,DEBIT
+436,01-11-2018 18:25,COMPLETE,Nakhon Ratchasima,Tailandia,Southeast Asia,,Pacific Asia,DEBIT
+437,01-11-2018 18:04,PROCESSING,Sydney,Australia,Oceania,,Pacific Asia,TRANSFER
+438,01-11-2018 17:43,CLOSED,Sydney,Australia,Oceania,,Pacific Asia,CASH
+439,01-11-2018 17:22,PROCESSING,Kota Kinabalu,Malasia,Southeast Asia,,Pacific Asia,TRANSFER
+440,01-11-2018 17:01,COMPLETE,Jiutai,China,Eastern Asia,,Pacific Asia,DEBIT
+441,01-11-2018 16:40,PENDING_PAYMENT,Jiutai,China,Eastern Asia,,Pacific Asia,PAYMENT
+442,01-11-2018 16:19,PAYMENT_REVIEW,Singapur,Singapur,Southeast Asia,,Pacific Asia,PAYMENT
+443,01-11-2018 15:58,PENDING_PAYMENT,Brisbane,Australia,Oceania,,Pacific Asia,PAYMENT
+444,01-11-2018 15:37,PENDING_PAYMENT,Shantou,China,Eastern Asia,,Pacific Asia,PAYMENT
+445,01-11-2018 15:16,ON_HOLD,Shantou,China,Eastern Asia,,Pacific Asia,DEBIT
+446,01-11-2018 14:55,ON_HOLD,Shantou,China,Eastern Asia,,Pacific Asia,DEBIT
+447,01-11-2018 14:34,COMPLETE,Shantou,China,Eastern Asia,,Pacific Asia,DEBIT
+448,01-11-2018 14:13,PENDING_PAYMENT,Shantou,China,Eastern Asia,,Pacific Asia,PAYMENT
+449,01-11-2018 13:52,COMPLETE,Shantou,China,Eastern Asia,,Pacific Asia,DEBIT
+450,01-11-2018 13:31,COMPLETE,Cairns,Australia,Oceania,,Pacific Asia,DEBIT
+451,01-11-2018 13:10,COMPLETE,Cairns,Australia,Oceania,,Pacific Asia,DEBIT
+452,01-11-2018 12:49,CLOSED,Brisbane,Australia,Oceania,,Pacific Asia,CASH
+453,01-11-2018 12:28,SUSPECTED_FRAUD,Brisbane,Australia,Oceania,,Pacific Asia,TRANSFER
+454,01-11-2018 12:06,COMPLETE,Jaipur,India,South Asia,,Pacific Asia,DEBIT
+455,01-11-2018 11:45,COMPLETE,Jaipur,India,South Asia,,Pacific Asia,DEBIT
+456,01-11-2018 11:24,COMPLETE,Ho Chi Minh City,Vietnam,Southeast Asia,,Pacific Asia,DEBIT
+457,01-11-2018 11:03,PROCESSING,Raipur,India,South Asia,,Pacific Asia,TRANSFER
+458,01-11-2018 10:42,PENDING,Loudi,China,Eastern Asia,,Pacific Asia,TRANSFER
+459,3/28/2015 0:55,PENDING_PAYMENT,Petapa,Guatemala,Central America,,LATAM,PAYMENT
+460,2/15/2015 16:13,PENDING_PAYMENT,Tipitapa,Nicaragua,Central America,,LATAM,PAYMENT
+461,12/23/2016 21:03,PAYMENT_REVIEW,Tabuk,Arabia Saud,West Asia,,Pacific Asia,PAYMENT
+462,3/18/2016 8:50,PAYMENT_REVIEW,Manukau City,Nueva Zelanda,Oceania,,Pacific Asia,PAYMENT
+463,12/31/2016 15:47,PENDING_PAYMENT,Estambul,Turqua,West Asia,,Pacific Asia,PAYMENT
+464,02-10-2016 09:25,PENDING_PAYMENT,Yakarta,Indonesia,Southeast Asia,,Pacific Asia,PAYMENT
+465,11/28/2016 1:18,PENDING_PAYMENT,Ulan Bator,Mongolia,Eastern Asia,,Pacific Asia,PAYMENT
+466,04-01-2016 20:01,PENDING_PAYMENT,Tangerang,Indonesia,Southeast Asia,,Pacific Asia,PAYMENT
+467,11/19/2015 5:51,PENDING_PAYMENT,Shenzhen,China,Eastern Asia,,Pacific Asia,PAYMENT
+468,01-10-2016 15:14,PENDING_PAYMENT,Brisbane,Australia,Oceania,,Pacific Asia,PAYMENT
+469,04-01-2016 20:01,PENDING_PAYMENT,Tangerang,Indonesia,Southeast Asia,,Pacific Asia,PAYMENT
+470,11/30/2015 2:09,PENDING_PAYMENT,Sydney,Australia,Oceania,,Pacific Asia,PAYMENT
+471,1/31/2016 13:38,PENDING_PAYMENT,Newcastle,Australia,Oceania,,Pacific Asia,PAYMENT
+472,2/17/2016 23:35,PENDING_PAYMENT,Aurangabad,India,South Asia,,Pacific Asia,PAYMENT
+473,7/25/2016 14:47,PAYMENT_REVIEW,Seattle,Estados Unidos,West of USA ,98103.0,USCA,PAYMENT
+474,4/13/2016 10:12,PENDING_PAYMENT,San Francisco,Estados Unidos,West of USA ,94110.0,USCA,PAYMENT
+475,5/20/2016 12:25,PENDING_PAYMENT,Oakland,Estados Unidos,West of USA ,94601.0,USCA,PAYMENT
+476,07-03-2016 20:46,PENDING_PAYMENT,New York City,Estados Unidos,East of USA,10009.0,USCA,PAYMENT
+477,07-03-2016 20:46,PENDING_PAYMENT,New York City,Estados Unidos,East of USA,10009.0,USCA,PAYMENT
+478,5/22/2016 14:10,PENDING_PAYMENT,Overland Park,Estados Unidos,US Center ,66212.0,USCA,PAYMENT
+479,08-08-2016 03:12,PENDING_PAYMENT,Monroe,Estados Unidos,South of  USA ,28110.0,USCA,PAYMENT
+480,11/20/2016 21:38,PAYMENT_REVIEW,Potchefstroom,SudAfrica,Southern Africa,,Africa,PAYMENT
+481,10/15/2016 12:55,PENDING_PAYMENT,Cape Town,SudAfrica,Southern Africa,,Africa,PAYMENT
+482,7/22/2015 17:56,PENDING_PAYMENT,Wiesbaden,Alemania,Western Europe,,Europe,PAYMENT
+483,09-07-2015 04:22,PENDING_PAYMENT,Montpellier,Francia,Western Europe,,Europe,PAYMENT
+484,6/15/2015 5:54,PENDING_PAYMENT,Munich,Alemania,Western Europe,,Europe,PAYMENT
+485,08-04-2017 02:31,PENDING_PAYMENT,Portsmouth,Reino Unido,Northern Europe,,Europe,PAYMENT
+486,09-08-2015 12:15,PENDING_PAYMENT,Eastbourne,Reino Unido,Northern Europe,,Europe,PAYMENT
+487,07-07-2015 05:31,PENDING_PAYMENT,Dortmund,Alemania,Western Europe,,Europe,PAYMENT
+488,6/24/2015 5:21,PENDING_PAYMENT,Bobigny,Francia,Western Europe,,Europe,PAYMENT
+489,9/24/2017 13:08,PENDING_PAYMENT,Lille,Francia,Western Europe,,Europe,PAYMENT
+490,10/29/2016 18:30,PENDING_PAYMENT,Giurgiu,Rumania,Eastern Europe,,Europe,PAYMENT
+491,08-04-2017 02:31,PENDING_PAYMENT,Portsmouth,Reino Unido,Northern Europe,,Europe,PAYMENT
+492,7/20/2015 11:58,PENDING_PAYMENT,Tamworth,Reino Unido,Northern Europe,,Europe,PAYMENT
+493,12/25/2016 8:26,PENDING_PAYMENT,Lviv,Ucrania,Eastern Europe,,Europe,PAYMENT
+494,10-11-2015 19:44,PENDING_PAYMENT,London,Reino Unido,Northern Europe,,Europe,PAYMENT
+495,7/22/2017 7:16,PENDING_PAYMENT,Drancy,Francia,Western Europe,,Europe,PAYMENT
+496,12/25/2016 8:26,PENDING_PAYMENT,Lviv,Ucrania,Eastern Europe,,Europe,PAYMENT
+497,1/27/2017 18:23,PENDING_PAYMENT,Villa Nueva,Guatemala,Central America,,LATAM,PAYMENT
+498,4/30/2017 3:21,PENDING_PAYMENT,Santo Domingo,Repblica Dominicana,Caribbean,,LATAM,PAYMENT
+499,04-07-2017 08:28,PENDING_PAYMENT,Hidalgo,Mxico,Central America,,LATAM,PAYMENT
+500,2/15/2017 14:40,PENDING_PAYMENT,Irapuato,Mxico,Central America,,LATAM,PAYMENT
